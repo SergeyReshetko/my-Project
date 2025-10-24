@@ -1,11 +1,8 @@
-public class StringUtil {
-    public static void main(String[] args) {
-        String input = "J@va the be$t!123";
-        String output = reverse(input);
-        System.out.println(output);
-    }
+package com.urise.webapp.org.example.util;
 
-    static String reverse(String str) {
+public class StringUtil {
+
+    public String reverseLetters(String str) {
         if (str == null || str.isEmpty()) {
             return "";
         }
