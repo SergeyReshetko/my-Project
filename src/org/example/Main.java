@@ -1,4 +1,4 @@
-package org.example.main;
+package org.example;
 
 import org.example.util.StringUtil;
 
