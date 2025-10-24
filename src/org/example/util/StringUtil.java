@@ -1,4 +1,4 @@
-package com.urise.webapp.org.example.util;
+package org.example.util;
 
 public class StringUtil {
 

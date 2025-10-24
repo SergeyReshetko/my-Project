@@ -1,6 +1,6 @@
-package com.urise.webapp.main;
+package org.example.main;
 
-import com.urise.webapp.org.example.util.StringUtil;
+import org.example.util.StringUtil;
 
 public class Main {
     public static void main(String[] args) {
