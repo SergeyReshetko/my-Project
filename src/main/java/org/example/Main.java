@@ -1,6 +1,6 @@
 package org.example;
 
-import org.example.util.StringUtil;
+import org.example.util.*;
 
 public class Main {
     public static void main(String[] args) {
